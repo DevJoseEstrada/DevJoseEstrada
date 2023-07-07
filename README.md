@@ -13,6 +13,8 @@
 
 - 💬 Feel free to ask me about **Java, .Net and Flutter.**
 
+- 👨‍💻 All of my projects are currently set as private for migration. If anyone is interested in viewing any of them on any technology, please feel free to ask for a private link by sending an email to me.
+
 - 📫 You can reach me at **devjmestrada@gmail.com**
 
 - 📄 [Know about my experiences](https://shorturl.at/mtFO7)
