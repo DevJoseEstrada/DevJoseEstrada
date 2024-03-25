@@ -7,7 +7,7 @@
 
 - 🌱 I'm pursuing a **Master's Degree in Cybersecurity while working.**
 
--  🥅 2023 Goals: Learn more about web3
+-  🥅 2024 Goals: Learn more about exploits
 
 - 👯 I'm interested in collaborating on **Java, .Net, C++, Flutter or Python projects.**
 
